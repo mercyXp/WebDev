@@ -4,4 +4,4 @@ HTML tags give a webpage its structure. You can use HTML tags to add photos, but
 
 This small projects helps to learn the most common HTML tags by building your own cat photo app.
 
-~Happy Coding~
+`Happy Coding`
