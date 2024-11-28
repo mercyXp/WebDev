@@ -101,7 +101,7 @@ p {
 - `Separation of Concerns`: Keeps HTML (structure) and CSS (design) separate, making maintenance easier.
 
 ## Practical Examples:
-Example 1: Styling a Button
+- Example 1: Styling a Button
 ```html
 <!DOCTYPE html>
 <html>
@@ -127,7 +127,8 @@ Example 1: Styling a Button
 </html>
 ```
 ![button](https://github.com/mercyXp/myProjects/blob/main/0.LearnCSS/img/eg3.png)
-Example 2: Responsive Layout
+
+- Example 2: Responsive Layout
 ```html
 <!DOCTYPE html>
 <html>
