@@ -7,7 +7,7 @@ CSS stands for Cascading Style Sheets. It is used to control the appearance of w
 ## Key Features of CSS:
 - `Color Management`: Adjust text, background, and border colors.
 - `Typography`: Customize fonts, sizes, and styles.
-- `Positionin`g: Arrange elements anywhere on the screen.
+- `Positioning`: Arrange elements anywhere on the screen.
 - `Responsive Design`: Adapt layouts to fit various devices.
 - `Animations and Effects`: Add dynamic and interactive behaviors.
 ## What Does CSS Do?
