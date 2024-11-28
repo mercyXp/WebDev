@@ -79,19 +79,19 @@ p {
 #### Inline CSS: Written inside an HTML tag.
 ```html
 <p style="color: red;">This is inline CSS.</p>
-Internal CSS: Written in a <style> tag inside the HTML <head>.
-html
-Copy code
+```
+#### Internal CSS: Written in a <style> tag inside the HTML <head>.
+```html
 <style>
     p {
         color: green;
     }
 </style>
-
+```
 #### External CSS: Written in a separate file (e.g., style.css) and linked to the HTML.
 ```html
 <link rel="stylesheet" href="style.css">
-
+```
 ## Why Is CSS Important?
 - `Improves Design`: Enhances the visual appeal of your website.
 - `Saves Time`: A single CSS file can style multiple HTML pages.
@@ -123,6 +123,7 @@ Example 1: Styling a Button
     <button>Click Me</button>
 </body>
 </html>
+```
 Example 2: Responsive Layout
 ```html
 <!DOCTYPE html>
@@ -155,7 +156,7 @@ Example 2: Responsive Layout
     </div>
 </body>
 </html>
-
+```
 ## Conclusion
 CSS is an essential tool for web developers to create visually engaging and user-friendly websites. By separating design from content, CSS streamlines development, enhances flexibility, and ensures consistency across web pages.
 
