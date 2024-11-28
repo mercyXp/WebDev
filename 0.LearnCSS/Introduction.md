@@ -32,7 +32,7 @@ Without CSS:
 </body>
 </html>
 ```
-
+![html]("")
 With CSS:
 ```html
 <!DOCTYPE html>
