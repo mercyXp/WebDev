@@ -20,7 +20,7 @@ CSS brings life to your webpage by:
 
 ### Practical Example:
 Without CSS:
-html
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -33,7 +33,7 @@ html
 </html>
 
 With CSS:
-html
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -73,9 +73,11 @@ p {
     font-size: 16px; /* Sets font size to 16 pixels */
     margin: 10px; /* Adds space around the element */
 }
+
 ## Types of CSS:
+
 #### Inline CSS: Written inside an HTML tag.
-html
+```html
 <p style="color: red;">This is inline CSS.</p>
 Internal CSS: Written in a <style> tag inside the HTML <head>.
 html
@@ -87,7 +89,7 @@ Copy code
 </style>
 
 #### External CSS: Written in a separate file (e.g., style.css) and linked to the HTML.
-html
+```html
 <link rel="stylesheet" href="style.css">
 
 ## Why Is CSS Important?
@@ -98,7 +100,7 @@ html
 
 ## Practical Examples:
 Example 1: Styling a Button
-html
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -122,7 +124,7 @@ html
 </body>
 </html>
 Example 2: Responsive Layout
-html
+```html
 <!DOCTYPE html>
 <html>
 <head>
