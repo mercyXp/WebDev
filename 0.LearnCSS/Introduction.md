@@ -32,7 +32,7 @@ Without CSS:
 </body>
 </html>
 ```
-![html]("")
+![html]("https://github.com/mercyXp/myProjects/blob/main/0.LearnCSS/img/eg2.png")
 With CSS:
 ```html
 <!DOCTYPE html>
@@ -60,6 +60,7 @@ With CSS:
 </body>
 </html>
 ```
+![css]("https://github.com/mercyXp/myProjects/blob/main/0.LearnCSS/img/eg1.png)
 ## How Does CSS Work?
 CSS works by applying rules to HTML elements. Each rule consists of:
 
@@ -125,6 +126,7 @@ Example 1: Styling a Button
 </body>
 </html>
 ```
+![button]("https://github.com/mercyXp/myProjects/blob/main/0.LearnCSS/img/eg3.png")
 Example 2: Responsive Layout
 ```html
 <!DOCTYPE html>
@@ -158,6 +160,7 @@ Example 2: Responsive Layout
 </body>
 </html>
 ```
+![squares]("https://github.com/mercyXp/myProjects/blob/main/0.LearnCSS/img/eg3.png")
 ## Conclusion
 CSS is an essential tool for web developers to create visually engaging and user-friendly websites. By separating design from content, CSS streamlines development, enhances flexibility, and ensures consistency across web pages.
 
