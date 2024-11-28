@@ -31,6 +31,7 @@ Without CSS:
     <p>Welcome to my website.</p>
 </body>
 </html>
+```
 
 With CSS:
 ```html
@@ -58,7 +59,7 @@ With CSS:
     <p>Welcome to my beautifully styled website.</p>
 </body>
 </html>
-
+```
 ## How Does CSS Work?
 CSS works by applying rules to HTML elements. Each rule consists of:
 
@@ -67,13 +68,13 @@ CSS works by applying rules to HTML elements. Each rule consists of:
 - Values: Specify the desired outcome.
 
 ### Example of a CSS Rule:
-css
+```css
 p {
     color: blue; /* Changes text color to blue */
     font-size: 16px; /* Sets font size to 16 pixels */
     margin: 10px; /* Adds space around the element */
 }
-
+```
 ## Types of CSS:
 
 #### Inline CSS: Written inside an HTML tag.
